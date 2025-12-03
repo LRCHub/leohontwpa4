@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "東京テディベア",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-03T08:10:54.971765Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/01_東京テディベア_Neru_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Alfakyun",
+      "has_synced": true,
+      "path": "select/02_東京テディベア_Alfakyun.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "+α/あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/03_東京テディベア_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/04_東京テディベア_Neru.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "東京テディベア feat.いかさん",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/05_東京テディベア_feat.いかさん_Neru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru feat. いかさん",
+      "has_synced": true,
+      "path": "select/06_東京テディベア_Neru_feat._いかさん.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru; 鏡音リン",
+      "has_synced": true,
+      "path": "select/07_東京テディベア_Neru;_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru; いかさん",
+      "has_synced": true,
+      "path": "select/08_東京テディベア_Neru;_いかさん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "りぶ",
+      "has_synced": true,
+      "path": "select/09_東京テディベア_りぶ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru feat. +α",
+      "has_synced": true,
+      "path": "select/10_東京テディベア_Neru_feat._+α.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "東京テディベア -初音ミク「マジカルミライ 2014」Live-",
+      "artist": "Neru",
+      "has_synced": true,
+      "path": "select/11_東京テディベア_-初音ミク「マジカルミライ_2014」Live-_Neru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "東京テディベア - Tokyo Teddy Bear",
+      "artist": "a/Alfakyun.",
+      "has_synced": true,
+      "path": "select/12_東京テディベア_-_Tokyo_Teddy_Bear_a_Alfakyun..lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "東京テディベア (Tokyo Teddy Bear) (Neru cover)",
+      "artist": "鬱P (UtsuP) feat. Kagamine Rin",
+      "has_synced": true,
+      "path": "select/13_東京テディベア_(Tokyo_Teddy_Bear)_(Neru_cover)_鬱P_(UtsuP)_feat._Kagamine_Rin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/14_東京テディベア_Neru_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "鏡音リン",
+      "has_synced": true,
+      "path": "select/15_東京テディベア_鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "Neru, おればなな feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/16_東京テディベア_Neru,_おればなな_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "東京テディベア",
+      "artist": "鬱P feat. 鏡音リン",
+      "has_synced": true,
+      "path": "select/17_東京テディベア_鬱P_feat._鏡音リン.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "東京テディベア (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_東京テディベア_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)_Leo_need.txt"
+    }
+  ]
+}
