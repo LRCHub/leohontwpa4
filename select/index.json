@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "東京テディベア",
+  "base_track": "東京テディベア (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&鏡音リン)",
   "base_artist": "Leo/need",
-  "createdAt": "2025-12-03T08:10:54.971765Z",
+  "createdAt": "2026-03-23T14:34:31.641903Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -87,58 +87,58 @@
     {
       "id": "lrclib_11",
       "source": "lrclib",
-      "title": "東京テディベア -初音ミク「マジカルミライ 2014」Live-",
-      "artist": "Neru",
+      "title": "東京テディベア",
+      "artist": "Neru feat. 鏡音リン",
       "has_synced": true,
-      "path": "select/11_東京テディベア_-初音ミク「マジカルミライ_2014」Live-_Neru.lrc"
+      "path": "select/11_東京テディベア_Neru_feat._鏡音リン.lrc"
     },
     {
       "id": "lrclib_12",
       "source": "lrclib",
-      "title": "東京テディベア - Tokyo Teddy Bear",
-      "artist": "a/Alfakyun.",
+      "title": "東京テディベア",
+      "artist": "鏡音リン",
       "has_synced": true,
-      "path": "select/12_東京テディベア_-_Tokyo_Teddy_Bear_a_Alfakyun..lrc"
+      "path": "select/12_東京テディベア_鏡音リン.lrc"
     },
     {
       "id": "lrclib_13",
       "source": "lrclib",
-      "title": "東京テディベア (Tokyo Teddy Bear) (Neru cover)",
-      "artist": "鬱P (UtsuP) feat. Kagamine Rin",
+      "title": "東京テディベア",
+      "artist": "Neru, おればなな feat. 鏡音リン",
       "has_synced": true,
-      "path": "select/13_東京テディベア_(Tokyo_Teddy_Bear)_(Neru_cover)_鬱P_(UtsuP)_feat._Kagamine_Rin.lrc"
+      "path": "select/13_東京テディベア_Neru,_おればなな_feat._鏡音リン.lrc"
     },
     {
       "id": "lrclib_14",
       "source": "lrclib",
       "title": "東京テディベア",
-      "artist": "Neru feat. 鏡音リン",
+      "artist": "鬱P feat. 鏡音リン",
       "has_synced": true,
-      "path": "select/14_東京テディベア_Neru_feat._鏡音リン.lrc"
+      "path": "select/14_東京テディベア_鬱P_feat._鏡音リン.lrc"
     },
     {
       "id": "lrclib_15",
       "source": "lrclib",
-      "title": "東京テディベア",
-      "artist": "鏡音リン",
+      "title": "東京テディベア -初音ミク「マジカルミライ 2014」Live-",
+      "artist": "Neru",
       "has_synced": true,
-      "path": "select/15_東京テディベア_鏡音リン.lrc"
+      "path": "select/15_東京テディベア_-初音ミク「マジカルミライ_2014」Live-_Neru.lrc"
     },
     {
       "id": "lrclib_16",
       "source": "lrclib",
-      "title": "東京テディベア",
-      "artist": "Neru, おればなな feat. 鏡音リン",
+      "title": "東京テディベア - Tokyo Teddy Bear",
+      "artist": "a/Alfakyun.",
       "has_synced": true,
-      "path": "select/16_東京テディベア_Neru,_おればなな_feat._鏡音リン.lrc"
+      "path": "select/16_東京テディベア_-_Tokyo_Teddy_Bear_a_Alfakyun..lrc"
     },
     {
       "id": "lrclib_17",
       "source": "lrclib",
-      "title": "東京テディベア",
-      "artist": "鬱P feat. 鏡音リン",
+      "title": "東京テディベア (Tokyo Teddy Bear) (Neru cover)",
+      "artist": "鬱P (UtsuP) feat. Kagamine Rin",
       "has_synced": true,
-      "path": "select/17_東京テディベア_鬱P_feat._鏡音リン.lrc"
+      "path": "select/17_東京テディベア_(Tokyo_Teddy_Bear)_(Neru_cover)_鬱P_(UtsuP)_feat._Kagamine_Rin.lrc"
     },
     {
       "id": "petitlyrics_1",
